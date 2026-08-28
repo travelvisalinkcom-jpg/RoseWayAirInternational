@@ -1,0 +1,6 @@
+{
+  "name": "HIRU AI Command OS",
+  "description": "HIRU AI Command OS V3.2 - Multi-company AI-powered command center and operations system for Rose Way Air International & Al Islah International",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
